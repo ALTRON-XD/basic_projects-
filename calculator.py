@@ -1,4 +1,4 @@
-choice = int(input("enter your choice from 1-7 : \n1.Addition\n2.Subtraction\n3.Multiplication\n4.Division\n5.Modulus\n6.sqrt\n7.squre\n")) #taking input from user
+choice = int(input("enter your choice from 1-7 : \n1.Addition\n2.Subtraction\n3.Multiplication\n4.Division\n5.Modulus\n6.sqrt\n7.squre\n enter the input :")) #taking input from user
 
 if choice == 6: # sqrt
     num = int(input("enter the number : ")) # taking input from user
